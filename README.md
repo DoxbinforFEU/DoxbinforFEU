@@ -9,6 +9,8 @@
 ![Focus](https://img.shields.io/badge/FOCUS-SECURE%20WEB%20DEV-00ff9c?style=for-the-badge&labelColor=0d1117)
 ![School](https://img.shields.io/badge/STUDENT-FEU-00ff9c?style=for-the-badge&labelColor=0d1117)
 
+![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge&labelColor=0d1117)
+
 </div>
 
 ---
@@ -84,6 +86,23 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
+
+</div>
+
+---
+
+## `> git stats`
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&icon_color=00ff9c&border_color=1f6f50&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=false&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&border_color=1f6f50)
+
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=1f6f50&border=1f6f50)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)
 
 </div>
 
