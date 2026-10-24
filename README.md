@@ -1,15 +1,15 @@
 <div align="center">
 
-![header](https://raw.githubusercontent.com/DoxbinforFEU/DoxbinforFEU/main/assets/header.svg)
+![header](https://raw.githubusercontent.com/DoxbinforFEU/DoxbinforFEU/main/header.svg)
 
 ![School](https://img.shields.io/badge/Student-FEU-00ff9c?style=flat-square&labelColor=060D08&logo=googlescholar&logoColor=00ff9c)
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-00ff9c?style=flat-square&labelColor=060D08&logo=hackthebox&logoColor=00ff9c)
 ![Focus](https://img.shields.io/badge/Focus-Networking-00ff9c?style=flat-square&labelColor=060D08&logo=cisco&logoColor=00ff9c)
 ![Open](https://img.shields.io/badge/Open%20to-Internships-00ff9c?style=flat-square&labelColor=060D08)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff9c?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-00ff9c?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-00ff9c?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08)](https://github.com/DoxbinforFEU)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff9c?style=for-the-badge&logo=linkedin&logoColor=00ff9c&labelColor=060D08)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-00ff9c?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=060D08)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-00ff9c?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=060D08)](https://github.com/DoxbinforFEU)
 
 ![Views](https://komarev.com/ghpvc/?username=DoxbinforFEU&style=flat-square&color=00ff9c&labelColor=060D08&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/DoxbinforFEU?style=flat-square&color=00ff9c&labelColor=060D08&logo=github&label=Followers)
@@ -100,10 +100,6 @@ TARGET    =  SOC / Network / Security role
 [![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoxbinforFEU&layout=compact&hide_border=true&title_color=00ff9c&text_color=c9d1d9&bg_color=060D08)](https://github.com/DoxbinforFEU)
 
 [![streak](https://streak-stats.demolab.com/?user=DoxbinforFEU&hide_border=true&background=060D08&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e)](https://github.com/DoxbinforFEU)
-
-![trophies](https://github-profile-trophy.vercel.app/?username=DoxbinforFEU&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=DoxbinforFEU&bg_color=060D08&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=0b1a12&hide_border=true)
 
 </div>
 
