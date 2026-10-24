@@ -9,7 +9,7 @@
 ![Focus](https://img.shields.io/badge/FOCUS-SECURE%20WEB%20DEV-00ff9c?style=for-the-badge&labelColor=0d1117)
 ![School](https://img.shields.io/badge/STUDENT-FEU-00ff9c?style=for-the-badge&labelColor=0d1117)
 
-![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge&labelColor=0d1117)
+![Views](https://komarev.com/ghpvc/?username=DoxbinforFEU&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge&labelColor=0d1117)
 
 </div>
 
