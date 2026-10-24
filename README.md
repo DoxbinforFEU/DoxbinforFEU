@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://raw.githubusercontent.com/DoxbinforFEU/DoxbinforFEU/main/header.svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=180&section=header&text=Mikhail&fontColor=00ff9c&fontSize=56&fontAlignY=38&desc=Future%20Network%20%2F%20Security%20Engineer&descAlignY=60&descSize=18&descColor=c9d1d9)
 
 ![School](https://img.shields.io/badge/Student-FEU-00ff9c?style=flat-square&labelColor=060D08&logo=googlescholar&logoColor=00ff9c)
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-00ff9c?style=flat-square&labelColor=060D08&logo=hackthebox&logoColor=00ff9c)
