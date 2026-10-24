@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:064e3b,100:00ff9c&height=260&section=header&text=MIKHAIL&fontColor=ffffff&fontSize=76&fontAlignY=38&stroke=00ff9c&strokeWidth=2&desc=Frontend%20Developer%20-%20Aspiring%20Cybersecurity%20and%20Network%20Engineer&descAlignY=62&descSize=18&descColor=00ff9c)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:064e3b,100:00ff9c&height=260&section=header&text=MONBOY&fontColor=ffffff&fontSize=76&fontAlignY=38&stroke=00ff9c&strokeWidth=2&desc=Frontend%20Developer%20-%20Aspiring%20Cybersecurity%20and%20Network%20Engineer&descAlignY=62&descSize=18&descColor=00ff9c)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF9C&center=true&vCenter=true&width=800&height=40&lines=%24+whoami+%E2%86%92+frontend+developer+%2F+security+learner;%24+ethical+hacking.+secure+code.+solid+networks.;%24+goal+%E2%86%92+SOC+analyst+%2F+network+security+engineer)](https://git.io/typing-svg)
 
@@ -18,7 +18,7 @@
 ## `> whoami`
 
 ```bash
-┌──(mikhail㉿feu)-[~]
+┌──(MONBOY㉿feu)-[~]
 └─$ cat profile.txt
 
   role      : Student @ FEU · Frontend Developer
