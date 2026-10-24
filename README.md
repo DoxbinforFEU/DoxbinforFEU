@@ -95,14 +95,14 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&icon_color=00ff9c&border_color=1f6f50&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=false&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&border_color=1f6f50)
+![Stats](https://github-readme-stats.vercel.app/api?username=DoxbinforFEU&show_icons=true&hide_border=false&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&icon_color=00ff9c&border_color=1f6f50&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DoxbinforFEU&layout=compact&hide_border=false&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&border_color=1f6f50)
 
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=1f6f50&border=1f6f50)
+![Streak](https://streak-stats.demolab.com/?user=DoxbinforFEU&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=1f6f50&border=1f6f50)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DoxbinforFEU&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)
+![Trophies](https://github-profile-trophy.vercel.app/?username=DoxbinforFEU&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)
 
 </div>
 
@@ -126,8 +126,8 @@
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| [**library**](https://github.com/YOUR_USERNAME/library) | Library admin dashboard, migrating to a PHP + MySQL backend | `JS` `PHP` `MySQL` |
-| [**classsched**](https://github.com/YOUR_USERNAME/classsched) | Class scheduling tool | `HTML` `CSS` `JS` |
+| [**library**](https://github.com/DoxbinforFEU/library) | Library admin dashboard, migrating to a PHP + MySQL backend | `JS` `PHP` `MySQL` |
+| [**classsched**](https://github.com/DoxbinforFEU/classsched) | Class scheduling tool | `HTML` `CSS` `JS` |
 
 ---
 
